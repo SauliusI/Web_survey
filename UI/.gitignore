@@ -1,0 +1,6 @@
+wwwroot/bundle.js
+wwwroot/bundle.js.map
+node_modules/
+.idea/
+/build
+*.log
